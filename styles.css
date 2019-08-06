@@ -1,0 +1,48 @@
+/*both html files*/
+* {
+    box-sizing: border-box;
+}
+
+.navbar {
+    opacity: 0.5;
+    background-color: #f1f1f1;
+    position: fixed;
+}
+
+.navbar a {
+    font-size: 14px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+body{
+    background-color: #ffffff;
+}
+
+/*index.html*/
+.logo{
+    text-align: left;
+    font-family: 'Muli', sans-serif;
+    font-size: 125px;
+    padding-top: 130px;
+    color: #4B9EAA;
+}
+
+.intro{
+    text-align: left;
+    font-family: 'Muli', sans-serif;
+    font-size: 25px;
+    padding-top: 200px;
+    color: #4B9EAA;
+    text-align: right;
+}
+
+
+.btn{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 25px;
+    width: 150px;
+    border: none;
+    margin-top: -60px;
+}
+
+
